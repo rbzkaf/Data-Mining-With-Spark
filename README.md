@@ -10,7 +10,7 @@ These following code are my homework source code.
 
 |No.|    Main Application    |Programming|Tags|Score|
 |---|------------------------|-----------|----|-----|
-|1|[Data Exploration](https://github.com/Shayne-Yang/DSCI_553/blob/3f2260c1dbf2155cd2a063dc1f72685b15630d09/hw1/Assignment1.pdf)|[Python](https://github.com/Shayne-Yang/DSCI_553/blob/3f2260c1dbf2155cd2a063dc1f72685b15630d09/hw1)|`MapReduce` `Spark` `Pyspark`|7.0 / 7.0| 
+|1|[Data Exploration](https://github.com/rbzkaf/Data-Mining-With-Spark/blob/69af2042b37a5714b5f718a32967b1c2c2a784bc/HW1/Assignment1%20-%20Fall%202022.pdf)|[Python](https://github.com/rbzkaf/Data-Mining-With-Spark/blob/69af2042b37a5714b5f718a32967b1c2c2a784bc/HW1)|`MapReduce` `Spark` `Pyspark`|7.0 / 7.0| 
 |2|[Find Frequent Itemsets](https://github.com/Shayne-Yang/DSCI_553/blob/3f2260c1dbf2155cd2a063dc1f72685b15630d09/hw2/Assignment2.pdf)|[Python](https://github.com/Shayne-Yang/DSCI_553/blob/3f2260c1dbf2155cd2a063dc1f72685b15630d09/hw2)| `PCY` `Apriori` `SON`|7.0 / 7.0|
 |3|[Recommendation Systems](https://github.com/Shayne-Yang/DSCI_553/blob/3f2260c1dbf2155cd2a063dc1f72685b15630d09/hw3/DSCI553HW3.pdf)|[Python](https://github.com/Shayne-Yang/DSCI_553/blob/3f2260c1dbf2155cd2a063dc1f72685b15630d09/hw3)|`Collaborative Filtering` `MinHash` `LSH`|7.0 / 7.0|
 |4|[Graph Network Algorithm](https://github.com/Shayne-Yang/DSCI_553/blob/3f2260c1dbf2155cd2a063dc1f72685b15630d09/hw4/DSCI553HW4.pdf)|[Python](https://github.com/Shayne-Yang/DSCI_553/blob/3f2260c1dbf2155cd2a063dc1f72685b15630d09/hw4)|`Betweenness` `Communities Detection` `Girvan-Newman Algorithm`|7.0 / 7.0|
